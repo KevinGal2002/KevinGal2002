@@ -2,8 +2,7 @@
 - ⚡ I'm 19 years old.
 - 🔭 I’m currently studing on Politecnica Nacional School.
 - 🌱 I’m currently learning POO,HTML,CSS,JS
-- 👯 I’m looking to collaborate on ...
- 
+
 <!--
 **KevinGal2002/KevinGal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
